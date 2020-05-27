@@ -1,0 +1,19 @@
+/*
+    Pequenos ajustes de alinhamento
+    do formulário e da lista não ordenada.
+*/
+
+#search {
+    width: auto;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+li {
+    width: 30%;
+    margin-left: 1%;
+}
+
+ul {
+    margin-top: 3%;
+}
